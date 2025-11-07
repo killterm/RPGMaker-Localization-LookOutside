@@ -12,7 +12,11 @@
 - patch: 2.00
 - build: 2.17
 
+## 라이센스
+
+- 폰트: [둥근모꼴+Fixedsys](https://cactus.tistory.com/193)
+
 ## 사용법
 
-1. [최신 Release](https://github.com/killterm/RPGMaker-Localization-LookOutside/releases)를 게임 설치 경로에 다운로드
+1. [최신 Release](https://github.com/killterm/RPGMaker-Localization-LookOutside/releases/latest)를 게임 설치 경로에 다운로드
 2. 패치 프로그램(exe) 실행
