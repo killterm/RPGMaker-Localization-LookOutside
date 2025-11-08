@@ -11,7 +11,7 @@
 - [스팀 상점 페이지](https://store.steampowered.com/app/3373660/Look_Outside/)
 - patch: 2.00
 - build: 2.17
-- ko: 2.0.7
+- ko: 2.0.8
 
 ## 라이센스
 
