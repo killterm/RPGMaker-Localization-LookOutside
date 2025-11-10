@@ -20,8 +20,10 @@
 ## 사용법
 
 1. [최신 Release](https://github.com/killterm/RPGMaker-Localization-LookOutside/releases/latest)를 게임 설치 경로에 다운로드
-2. 패치 프로그램(exe) 실행: 내장된 기계 번역 데이터를 적용합니다.
-3. 혹은 본인이 원하는 CSV 파일을 끌어다 놓으면 적용됩니다.
-   - 대신 컬럼명은 `SourceFile`, `Original`, `ko`가 동일하게 있어야 해요.
-  
+2. 패치 프로그램(exe) 실행: 내장된 번역 데이터로 패치를 진행합니다.
+
+---
+
+본인이 적용하고자 하는 번역 데이터가 있을 경우 알맞는 형식의 CSV 파일을 끌어다 놓으면 적용됩니다. 헤더로 `SourceFile`, `Original`, `ko`가 있어야 하고, 각각 파일명을 포함 상대 경로, 원문, 번역문이 있어야 합니다.
+
 ![Look Outside Patcher Usage](images/look-outside-patcher-usage.webp)
