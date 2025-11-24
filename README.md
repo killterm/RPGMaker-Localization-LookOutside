@@ -15,7 +15,7 @@
 
 ## 라이센스
 
-- 폰트: [둥근모꼴+Fixedsys](https://cactus.tistory.com/193)
+- 폰트: [물마루](https://github.com/mushsooni/mulmaru)
 
 ## 사용법
 
